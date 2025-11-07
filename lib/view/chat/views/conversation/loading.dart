@@ -1,0 +1,32 @@
+import 'package:gaya/view/chat/utils/consts.dart';
+import 'package:flutter/material.dart';
+
+class Loading extends StatelessWidget {
+  const Loading({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.white.withOpacity(0.8),
+      child: Center(
+        child: CircularProgressIndicator(
+          valueColor: AlwaysStoppedAnimation<Color>(themeColor),
+        ),
+      ),
+    );
+  }
+}
+
+class AdaptiveLoading extends StatelessWidget {
+  const AdaptiveLoading({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.white.withOpacity(0.8),
+      child: const Center(
+        child: CircularProgressIndicator.adaptive(),
+      ),
+    );
+  }
+}

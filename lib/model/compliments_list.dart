@@ -1,0 +1,16 @@
+List<String> complimentList = [
+  'cool',
+  'positive',
+  'confident',
+  'creative',
+  'leader',
+  'stylist',
+  'pleasent',
+  'shining',
+  'energetic',
+  'unique',
+  'friendly',
+  'cheerful',
+  'inspiring',
+  'neat',
+];

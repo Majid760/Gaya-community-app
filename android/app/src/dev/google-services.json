@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "719406774152",
+    "project_id": "gaya-production",
+    "storage_bucket": "gaya-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719406774152:android:37b5a9f943ac8adcd6ec3d",
+        "android_client_info": {
+          "package_name": "com.elabd.gayaAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719406774152-clhbcbmp0lpg99q55se7lm34jma80q3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rmRLI2541qY8hLLxCONkEXIgFvKFtO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719406774152-clhbcbmp0lpg99q55se7lm34jma80q3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719406774152-el1g7d6d36o0520pnsehgqst81599l0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elabdtech.gaya"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719406774152:android:93dc46f5a23566cfd6ec3d",
+        "android_client_info": {
+          "package_name": "com.gaya.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719406774152-88mavcd3almqogir7muumdo79lsgeue9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaya.android",
+            "certificate_hash": "61964e686d3594c6da7804de6e895b49ccc8222c"
+          }
+        },
+        {
+          "client_id": "719406774152-clhbcbmp0lpg99q55se7lm34jma80q3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rmRLI2541qY8hLLxCONkEXIgFvKFtO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719406774152-clhbcbmp0lpg99q55se7lm34jma80q3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719406774152-el1g7d6d36o0520pnsehgqst81599l0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elabdtech.gaya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

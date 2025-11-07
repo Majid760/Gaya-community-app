@@ -1,0 +1,43 @@
+<svg width="24" height="30" viewBox="0 0 24 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="30" fill="#F5F5F5"/>
+<g id="Post with vibes">
+<path d="M-2193 -730C-2193 -731.105 -2192.1 -732 -2191 -732H1745C1746.1 -732 1747 -731.105 1747 -730V543C1747 544.105 1746.1 545 1745 545H-2191C-2192.1 545 -2193 544.105 -2193 543V-730Z" fill="#E5E5E5"/>
+<g id="Create post" clip-path="url(#clip0_0_1)">
+<rect width="393" height="853" transform="translate(-275 -473)" fill="white"/>
+<g id="Add video" filter="url(#filter0_d_0_1)">
+<path d="M-275 -158C-275 -166.837 -267.837 -174 -259 -174H102C110.837 -174 118 -166.837 118 -158V379H-275V-158Z" fill="white"/>
+</g>
+<g id="Frame 307" clip-path="url(#clip1_0_1)">
+<g id="Frame 308">
+<g id="Frame 307_2">
+<g id="Frame 307_3">
+<g id="flag-02">
+<path id="Icon" d="M1.33331 19C1.33331 19 2.66665 17.6666 6.66665 17.6666C10.6666 17.6666 13.3333 20.3333 17.3333 20.3333C21.3333 20.3333 22.6666 19 22.6666 19V4.33329C22.6666 4.33329 21.3333 5.66663 17.3333 5.66663C13.3333 5.66663 10.6666 2.99996 6.66665 2.99996C2.66665 2.99996 1.33331 4.33329 1.33331 4.33329M1.33331 28.3333L1.33331 1.66663" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<rect x="-73.5" y="-28.5" width="171" height="115" rx="15.5" stroke="#D1D2D6"/>
+</g>
+</g>
+</g>
+</g>
+<path d="M-2191 -731H1745V-733H-2191V-731ZM1746 -730V543H1748V-730H1746ZM1745 544H-2191V546H1745V544ZM-2192 543V-730H-2194V543H-2192ZM-2191 544C-2191.55 544 -2192 543.552 -2192 543H-2194C-2194 544.657 -2192.66 546 -2191 546V544ZM1746 543C1746 543.552 1745.55 544 1745 544V546C1746.66 546 1748 544.657 1748 543H1746ZM1745 -731C1745.55 -731 1746 -730.552 1746 -730H1748C1748 -731.657 1746.66 -733 1745 -733V-731ZM-2191 -733C-2192.66 -733 -2194 -731.657 -2194 -730H-2192C-2192 -730.552 -2191.55 -731 -2191 -731V-733Z" fill="black" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-291" y="-192" width="425" height="585" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="393" height="853" fill="white" transform="translate(-275 -473)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="353" height="488" fill="white" transform="translate(-255 -153)"/>
+</clipPath>
+</defs>
+</svg>

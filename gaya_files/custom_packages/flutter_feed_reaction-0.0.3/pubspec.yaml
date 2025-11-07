@@ -1,0 +1,25 @@
+name: flutter_feed_reaction
+description: A Flutter package providing you with highly customizable reactions list for posts/comments in a Social Media kind of an app.
+version: 0.0.3
+homepage: https://github.com/shrijanRegmi/flutter_feed_reaction
+repository: https://github.com/shrijanRegmi/flutter_feed_reaction
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_portal: ^0.4.0
+  flutter_screenutil: ^5.8.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter: null
+
+assets:
+  - assets/emojies/
+  - assets/lottie/

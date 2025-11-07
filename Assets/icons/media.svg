@@ -1,0 +1,47 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" fill="#F5F5F5"/>
+<g id="Post with vibes">
+<path d="M-2010 -608C-2010 -609.105 -2009.1 -610 -2008 -610H1928C1929.1 -610 1930 -609.105 1930 -608V665C1930 666.105 1929.1 667 1928 667H-2008C-2009.1 667 -2010 666.105 -2010 665V-608Z" fill="#E5E5E5"/>
+<g id="Create post" clip-path="url(#clip0_0_1)">
+<rect width="393" height="853" transform="translate(-92 -351)" fill="white"/>
+<g id="Add video" filter="url(#filter0_d_0_1)">
+<path d="M-92 -36C-92 -44.8365 -84.8366 -52 -76 -52H285C293.837 -52 301 -44.8366 301 -36V501H-92V-36Z" fill="white"/>
+</g>
+<g id="Frame 307" clip-path="url(#clip1_0_1)">
+<g id="Frame 307_2">
+<g id="Frame 309">
+<rect x="-71.5" y="-30.5" width="173" height="115" rx="15.5" fill="white"/>
+<g id="Frame 307_3">
+<g id="play-circle">
+<g id="Icon">
+<path d="M15 28.3333C22.3638 28.3333 28.3334 22.3638 28.3334 15C28.3334 7.63616 22.3638 1.66663 15 1.66663C7.63622 1.66663 1.66669 7.63616 1.66669 15C1.66669 22.3638 7.63622 28.3333 15 28.3333Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.6667 10.9537C11.6667 10.3174 11.6667 9.99917 11.7997 9.82153C11.9156 9.66673 12.093 9.56987 12.2859 9.5561C12.5072 9.54029 12.7749 9.71235 13.3102 10.0565L19.6043 14.1027C20.0688 14.4013 20.3011 14.5506 20.3813 14.7405C20.4514 14.9064 20.4514 15.0936 20.3813 15.2594C20.3011 15.4493 20.0688 15.5986 19.6043 15.8972L13.3102 19.9434C12.7749 20.2876 12.5072 20.4596 12.2859 20.4438C12.093 20.43 11.9156 20.3332 11.7997 20.1784C11.6667 20.0008 11.6667 19.6826 11.6667 19.0462V10.9537Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<rect x="-71.5" y="-30.5" width="173" height="115" rx="15.5" stroke="#D1D2D6"/>
+</g>
+</g>
+</g>
+</g>
+<path d="M-2008 -609H1928V-611H-2008V-609ZM1929 -608V665H1931V-608H1929ZM1928 666H-2008V668H1928V666ZM-2009 665V-608H-2011V665H-2009ZM-2008 666C-2008.55 666 -2009 665.552 -2009 665H-2011C-2011 666.657 -2009.66 668 -2008 668V666ZM1929 665C1929 665.552 1928.55 666 1928 666V668C1929.66 668 1931 666.657 1931 665H1929ZM1928 -609C1928.55 -609 1929 -608.552 1929 -608H1931C1931 -609.657 1929.66 -611 1928 -611V-609ZM-2008 -611C-2009.66 -611 -2011 -609.657 -2011 -608H-2009C-2009 -608.552 -2008.55 -609 -2008 -609V-611Z" fill="black" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-108" y="-70" width="425" height="585" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="393" height="853" fill="white" transform="translate(-92 -351)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="353" height="488" fill="white" transform="translate(-72 -31)"/>
+</clipPath>
+</defs>
+</svg>

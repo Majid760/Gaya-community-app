@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>719406774152-i5hcdeo0dfi0mp2u0lib9hb9ei75178s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.719406774152-i5hcdeo0dfi0mp2u0lib9hb9ei75178s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>719406774152-6lcedv2k9hdlt20nj2uivfngkfemv1po.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUgHRpasudvAy7Cwi8MwhuuI0QMdni4LM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719406774152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaya.ios</string>
+	<key>PROJECT_ID</key>
+	<string>gaya-production</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gaya-production.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719406774152:ios:f1e5e70cd4906fc6d6ec3d</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>For Audio Messages need audio permission</string>
+</dict>
+</plist>
