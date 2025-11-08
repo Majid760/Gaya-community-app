@@ -87,9 +87,10 @@ Gaya redefines interest-based social networking. It creates a dynamic digital en
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/gaya.git
-   cd gaya
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   cd YOUR_REPO_NAME
    ```
+   _Note: Replace `YOUR_USERNAME` with your GitHub username and `YOUR_REPO_NAME` with your repository name._
 
 2. **Install Flutter dependencies**
    ```bash
@@ -222,7 +223,8 @@ This project is proprietary and confidential. All rights reserved.
 
 ## 👥 Support
 
-For support, feature requests, or bug reports, please [open an issue](https://github.com/your-username/gaya/issues) on GitHub.
+For support, feature requests, or bug reports, please [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues) on GitHub.
+_Note: Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name._
 
 ---
 
